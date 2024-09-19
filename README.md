@@ -7,7 +7,7 @@ They are kept simple for educational purposes
 
 Classification structure
 
-00 : Basic environment creation / Setup
+00 : Basic environment creation / Setup \
 015 : Dynamic Programming
 018 : Monte-Carlo
 019 : TD(0) algorithms
