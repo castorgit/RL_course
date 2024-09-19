@@ -13,6 +13,7 @@ Classification structure
 019 : TD(0) algorithms              \
 020 : SARSA                         \
 021 : Q-Learning                    \
-030 : DQN                           
+030 : DQN                           \
+040 : Actor Critic
 
 All Notebooks can be used under a MIT License, if not stated differently in the code
