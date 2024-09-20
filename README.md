@@ -8,7 +8,7 @@ They are kept as simple as possible for educational purposes
 
 They are not created to beat any score, but to understand characteristics and differences between the approaches.
 
-Classification structure
+Notebooks classification structure
 
 00 : Basic environment creation / Setup \
 015 : Dynamic Programming           \
