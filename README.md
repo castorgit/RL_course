@@ -3,7 +3,9 @@
 Repository with Examples and Exercises for an Introuductory Reinforcement Learning Course. Based on the Sutton/Barto Textbook
 
 The files in this repository are based on Gymnasium (farama foundation) and Pytorch (for Deep Reinforcement Learning)
-They are kept simple for educational purposes
+They are kept as simple as possible for educational purposes
+
+They are not created to beat any score, but to understand characteristics and differences between the approaches.
 
 Classification structure
 
@@ -14,6 +16,8 @@ Classification structure
 020 : SARSA                         \
 021 : Q-Learning                    \
 030 : DQN                           \
-040 : Actor Critic
+040 : Actor Critic                  \
+...
+100 : Torch Neural Network example \
 
 All Notebooks can be used under a MIT License, if not stated differently in the code
