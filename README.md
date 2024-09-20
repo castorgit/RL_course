@@ -1,6 +1,7 @@
 # Exercises Introduction to Reinforcement Learning
 
-Repository with Examples and Exercises for an Introuductory Reinforcement Learning Course. Based on the Sutton/Barto Textbook
+Repository with Examples and Exercises for an Introuductory Reinforcement Learning Course. Based on the Sutton/Barto Textbook 
+and David Silver RL course
 
 The files in this repository are based on Gymnasium (farama foundation) and Pytorch (for Deep Reinforcement Learning)
 They are kept as simple as possible for educational purposes
@@ -20,4 +21,5 @@ Classification structure
 ...                                 \
 100 : Torch Neural Network example 
 
-All Notebooks can be used under a MIT License, if not stated differently in the code
+All Notebooks can be used under a MIT License, if not stated differently in the code. 
+Some examples may be inspired in open sourced material.
