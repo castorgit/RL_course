@@ -17,7 +17,7 @@ Classification structure
 021 : Q-Learning                    \
 030 : DQN                           \
 040 : Actor Critic                  \
-...
-100 : Torch Neural Network example \
+...                                 \
+100 : Torch Neural Network example 
 
 All Notebooks can be used under a MIT License, if not stated differently in the code
