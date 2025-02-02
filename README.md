@@ -16,7 +16,8 @@ Notebooks classification structure
 019 : TD(0) algorithms              \
 020 : SARSA                         \
 021 : Q-Learning                    \
-030 : DQN                           \
+030 : DQN - Deep Q-Network          \
+031 : DDQN - Double Deep Q-Network  \
 040 : Actor Critic                  \
 ...                                 \
 100 : Torch Neural Network example 
