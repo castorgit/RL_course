@@ -4,7 +4,7 @@ Repository with Examples and Exercises for an Introuductory Reinforcement Learni
 and David Silver RL course
 
 The files in this repository are based on Gymnasium (farama foundation) and KERAS (for Deep Reinforcement Learning)
-Some examples are with Pytorch as well
+Some examples are with Pytorch as well <br>
 They are kept as simple as possible for educational purposes
 
 They are not created to beat any score, but to compare and learn the differences between the approaches.
