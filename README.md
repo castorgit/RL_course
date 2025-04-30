@@ -1,4 +1,4 @@
-# Exercises Introduction to Reinforcement Learning
+# Examples Course Introduction to Reinforcement Learning
 
 Repository with Examples and Exercises for an Introuductory Reinforcement Learning Course. Based on the Sutton/Barto Textbook 
 and David Silver RL course
