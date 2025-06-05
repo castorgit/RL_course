@@ -24,7 +24,9 @@ Notebooks classification structure
 033 : Prioritized Experience Replay \
 035 : PPO Policy Gradient           \
 040 : Actor Critic                  \
-050 : Heuristics                   \
+050 : Heuristics                    \
+...
+090 : LLM-Agents                    \
 ...                                 \
 100 : Torch/ KERAS Neural Network examples 
 
