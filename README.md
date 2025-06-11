@@ -21,7 +21,7 @@ Notebooks classification structure
 030 : DQN - Deep Q-Network          \
 031 : DDQN - Double Deep Q-Network  \
 032 : D3QN - Duelling Q-Networks    \
-033 : Prioritized Experience Replay \
+033 : PER - Prioritized Experience Replay \
 035 : PPO Policy Gradient           \
 040 : Actor Critic                  \
 050 : REINFORCE                     \
