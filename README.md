@@ -23,7 +23,7 @@ Notebooks classification structure
 032 : D3QN - Duelling Q-Networks    \
 033 : PER - Prioritized Experience Replay \
 035 : PPO Policy Gradient           \
-040 : Actor Critic                  \
+040 : A2C Actor Critic                  \
 050 : REINFORCE                     \
 ...                                 \
 080 : Heuristics                    \
