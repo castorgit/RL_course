@@ -18,10 +18,16 @@ Notebooks classification structure
 019 : TD(0) algorithms              \
 020 : SARSA                         \
 021 : Q-Learning                    \
+
+... Value Based Metods ....         \ 
+
+021 : Q-Learning                    \
 030 : DQN - Deep Q-Network          \
 031 : DDQN - Double Deep Q-Network  \
 032 : D3QN - Duelling Q-Networks    \
 033 : PER - Prioritized Experience Replay \
+
+... Policy Based Methods           \
 035 : PPO Policy Gradient           \
 040 : A2C Actor Critic                  \
 050 : REINFORCE                     \
