@@ -17,9 +17,9 @@ Notebooks classification structure
 018 : Monte-Carlo                   \
 019 : TD(0) algorithms              \
 020 : SARSA                         \
-021 : Q-Learning                    \
+021 : Q-Learning                    
 
-... Value Based Metods ....         \ 
+... Value Based Metods ....         
 
 021 : Q-Learning                    \
 030 : DQN - Deep Q-Network          \
@@ -27,7 +27,8 @@ Notebooks classification structure
 032 : D3QN - Duelling Q-Networks    \
 033 : PER - Prioritized Experience Replay \
 
-... Policy Based Methods           \
+... Policy Based Methods...
+
 035 : PPO Policy Gradient           \
 040 : A2C Actor Critic                  \
 050 : REINFORCE                     \
@@ -36,7 +37,7 @@ Notebooks classification structure
 ...                                 \
 090 : LLM-Agents                    \
 ...                                 \
-100 : Torch/ KERAS Neural Network examples  \
+100 : Torch/ KERAS Neural Network examples  
 
 All Notebooks can be used under a MIT License, if not stated differently in the code. 
 Some examples may be inspired in open sourced material.
