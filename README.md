@@ -1,4 +1,4 @@
-# Introduction to Reinforcement Learning — Examples and Exercises
+## Introduction to Reinforcement Learning — Examples and Exercises
 
 This repository contains examples and exercises for an **introductory course on Reinforcement Learning (RL)**, based on:
 
