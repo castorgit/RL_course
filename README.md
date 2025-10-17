@@ -29,9 +29,11 @@ Notebooks classification structure
 
 ... Policy Based Methods...
 
-035 : PPO Policy Gradient           \
-040 : A2C Actor Critic                  \
+035 : PPO - Proximal Policy Optimization   \
+040 : A2C - Actor Critic                  \
 050 : REINFORCE                     \
+060 : TD3 - Twin Critic             \
+070 : SAC - Soft Actor Critic       \
 ...                                 \
 080 : Heuristics                    \
 ...                                 \
@@ -39,5 +41,12 @@ Notebooks classification structure
 ...                                 \
 100 : Torch/ KERAS Neural Network examples  
 
+---- Stable Baselines 3 examples ....
+
+135 : PPO SB3 - Proximal Policy Optimization with Stable Baselines 3  \
+140 : A2C SB3 - Actor Critic with Stable Baselines 3                  \
+160 : TD3 SB3 - Twin Critics with Stable Baselines 3                  \
+170 : SAC SB3 - Soft Actor Critic with Stable Baselines 3             \
+\
 All Notebooks can be used under a MIT License, if not stated differently in the code. 
 Some examples may be inspired in open sourced material.
