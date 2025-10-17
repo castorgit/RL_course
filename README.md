@@ -66,6 +66,7 @@ All examples are implemented using:
 
 | Notebook | Method |
 |-----------|---------|
+| `130` | DQN (SB3) — Deep Q-Network |
 | `135` | PPO (SB3) — Proximal Policy Optimization |
 | `140` | A2C (SB3) — Advantage Actor-Critic |
 | `160` | TD3 (SB3) — Twin Critics |
