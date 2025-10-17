@@ -2,7 +2,8 @@
 
 This repository contains examples and exercises for an **introductory course on Reinforcement Learning (RL)**, based on:
 
-- *Reinforcement Learning: An Introduction* by Sutton and Barto  
+- *Reinforcement Learning: An Introduction* by Sutton and Barto (2018 Edition)
+- *Artificial Intelligence* by Russell Norvig (2022 edition)
 - *David Silver’s Reinforcement Learning Course (UCL / DeepMind)*
 
 ---
