@@ -64,13 +64,13 @@ All examples are implemented using:
 
 ### Stable Baselines 3 Implementations
 
-| Notebook | Method |
-|-----------|---------|
-| `130` | DQN (SB3) — Deep Q-Network |
-| `135` | PPO (SB3) — Proximal Policy Optimization |
-| `140` | A2C (SB3) — Advantage Actor-Critic |
-| `160` | TD3 (SB3) — Twin Critics |
-| `170` | SAC (SB3) — Soft Actor-Critic |
+| Notebook | Method | Original Paper |
+|-----------|---------|---------|
+| `130` | DQN (SB3) — Deep Q-Network ||
+| `135` | PPO (SB3) — Proximal Policy Optimization | https://arxiv.org/abs/1707.06347 |
+| `140` | A2C (SB3) — Advantage Actor-Critic ||
+| `160` | TD3 (SB3) — Twin Critics ||
+| `170` | SAC (SB3) — Soft Actor-Critic ||
 
 ---
 
