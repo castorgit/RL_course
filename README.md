@@ -72,6 +72,10 @@ All examples are implemented using:
 | `160` | TD3 (SB3) — Twin Critics |
 | `170` | SAC (SB3) — Soft Actor-Critic |
 
+### Distributional Methods with Stable Baselines 3 
+
+| `210` | TQC (SB3) — Truncate Quantile Critic |
+
 ---
 
 ## License
