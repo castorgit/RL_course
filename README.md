@@ -64,21 +64,21 @@ All examples are implemented using:
 
 ### Stable Baselines 3 Implementations
 
-| Notebook | Method | Original Paper |
+| Notebook | Method | Original Paper | Year |
 |-----------|---------|---------|
-| `130` | DQN (SB3) — Deep Q-Network ||
-| `135` | PPO (SB3) — Proximal Policy Optimization | https://arxiv.org/abs/1707.06347 |
-| `140` | A2C (SB3) — Advantage Actor-Critic ||
-| `160` | TD3 (SB3) — Twin Critics ||
-| `170` | SAC (SB3) — Soft Actor-Critic ||
+| `130` | DQN (SB3) — Deep Q-Network | https://arxiv.org/abs/1312.5602 | 2013 |
+| `135` | PPO (SB3) — Proximal Policy Optimization | https://arxiv.org/abs/1707.06347 | 2017 |
+| `140` | A2C (SB3) — Advantage Actor-Critic |https://arxiv.org/abs/1602.01783| 2016 |
+| `160` | TD3 (SB3) — Twin Critics | https://arxiv.org/pdf/1802.09477 | 2018 |
+| `170` | SAC (SB3) — Soft Actor-Critic | https://arxiv.org/abs/1801.01290 | 2018 |
 
 ---
 
 ### Distributional Methods with Stable Baselines 3 
 
-| Notebook | Method |  Original Paper |
-|-----------|---------|---------|
-| `210` | TQC (SB3) — Truncate Quantile Critic | https://arxiv.org/pdf/2005.04269 |
+| Notebook | Method |  Original Paper |  Year |
+|-----------|---------|---------|---------|
+| `210` | TQC (SB3) — Truncate Quantile Critic | https://arxiv.org/pdf/2005.04269 | 2020 |
 
 ---
 
