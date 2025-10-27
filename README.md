@@ -76,9 +76,9 @@ All examples are implemented using:
 
 ### Distributional Methods with Stable Baselines 3 
 
-| Notebook | Method |
-|-----------|---------|
-| `210` | TQC (SB3) — Truncate Quantile Critic |
+| Notebook | Method |  Original Paper |
+|-----------|---------|---------|
+| `210` | TQC (SB3) — Truncate Quantile Critic | https://arxiv.org/pdf/2005.04269 |
 
 ---
 
