@@ -65,7 +65,7 @@ All examples are implemented using:
 ### Stable Baselines 3 Implementations
 
 | Notebook | Method | Original Paper | Year |
-|-----------|---------|---------|
+|-----------|---------|---------|---------|
 | `130` | DQN (SB3) — Deep Q-Network | https://arxiv.org/abs/1312.5602 | 2013 |
 | `135` | PPO (SB3) — Proximal Policy Optimization | https://arxiv.org/abs/1707.06347 | 2017 |
 | `140` | A2C (SB3) — Advantage Actor-Critic |https://arxiv.org/abs/1602.01783| 2016 |
