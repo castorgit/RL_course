@@ -1,6 +1,6 @@
 ## Introduction to Reinforcement Learning — Examples and Exercises
 
-This repository contains examples and exercises for an **introductory course on Reinforcement Learning (RL)**, based on:
+This repository contains examples and exercises for an **Introductory course on Reinforcement Learning (RL)**, based on:
 
 - *Reinforcement Learning: An Introduction* by Sutton and Barto (2018 Edition)
 - *Artificial Intelligence* by Russell Norvig (2022 edition)
