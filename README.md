@@ -60,6 +60,7 @@ All examples are implemented using:
 | `080` | Heuristic approaches |
 | `090` | LLM-based Agents |
 | `100` | Torch / Keras Neural Network examples |
+| `200` | Multi-Agent Reinforcement Learning |
 
 ---
 
