@@ -51,6 +51,7 @@ All examples are implemented using:
 
 | Notebook | Method |
 |-----------|---------|
+| `034` | Vanilla Policy Gradient |
 | `035` | PPO — Proximal Policy Optimization |
 | `040` | A2C — Advantage Actor-Critic |
 | `050` | REINFORCE |
