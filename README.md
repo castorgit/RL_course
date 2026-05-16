@@ -84,6 +84,14 @@ All examples are implemented using:
 
 ---
 
+### Other Methods 
+
+| Notebook | Method |  Original Paper |  Year |
+|-----------|---------|---------|---------|
+| `300` | Imitation Learning |  |  |
+
+---
+
 ## License
 
 All notebooks are released under the **MIT License**, unless otherwise stated in the code.  
