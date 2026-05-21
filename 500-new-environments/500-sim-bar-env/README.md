@@ -2,9 +2,13 @@
 
 A custom Gymnasium environment for single-agent RL practice with SB3. The agent runs a small cafe during a morning rush: customers queue up with orders (espresso, latte, pastry), each with a patience timer and a tip that decays while they wait. Three stations, one order at a time each. The agent decides who to serve next.
 
+![Cafe Barista screenshot](cafe.png)
+
 It's a **scheduling problem**, not a control problem — small observation space, fast to train, but rich enough that PPO clearly beats both random and FIFO baselines.
 
 The objective is to solve a scheduling problem using RL. After executing both programs you will see how optimizing for Tips generates the best results. Optimizing only for revenue is not good enough. Is it a learning for real life?
+
+
 
 ## Files
 
