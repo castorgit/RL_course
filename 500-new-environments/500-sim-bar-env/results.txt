@@ -1,0 +1,26 @@
+Policy: PPO
+Objective: revenue=False, tips=True
+Episode reward: -26.13
+Objective reward: $71.67
+Penalties: $-97.80
+Revenue: $381.00
+Tips: $71.67
+Customers left: 19
+---
+Policy: PPO
+Objective: revenue=True, tips=False
+Episode reward: 257.95
+Objective reward: $366.00
+Penalties: $-108.05
+Revenue: $366.00
+Tips: $67.74
+Customers left: 21
+---
+Policy: PPO
+Objective: revenue=True, tips=True
+Episode reward: 313.31
+Objective reward: $421.41
+Penalties: $-108.10
+Revenue: $355.00
+Tips: $66.41
+Customers left: 21

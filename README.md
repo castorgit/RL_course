@@ -89,6 +89,7 @@ All examples are implemented using:
 | Notebook | Method |  Original Paper |  Year |
 |-----------|---------|---------|---------|
 | `300` | Imitation Learning |  |  |
+| `500` | new environments |  |  |
 
 ---
 
