@@ -2,7 +2,7 @@
 
 A small grid-world reinforcement learning environment, built as a tribute to the **volcano crossing** example used in Stanford's [CS221: Artificial Intelligence: Principles and Techniques](https://stanford-cs221.github.io/).
 
-![Volcano environment screenshot](screenshot.png)
+![Volcano environment screenshot](volcano-world-screenshot.png)
 
 ## The problem
 
