@@ -51,12 +51,18 @@ All examples are implemented using:
 
 | Notebook | Method |
 |-----------|---------|
-| `034` | Vanilla Policy Gradient |
-| `035` | PPO — Proximal Policy Optimization |
-| `040` | A2C — Advantage Actor-Critic |
-| `050` | REINFORCE |
+| `040` | REINFORCE - Vanilla Policy Gradient |
+| `045` | A2C — Advantage Actor-Critic |
+| `050` | PPO — Proximal Policy Optimization |
 | `060` | TD3 — Twin Delayed DDPG |
 | `070` | SAC — Soft Actor-Critic |
+
+---
+
+### Other Methods
+
+| Notebook | Method |
+|-----------|---------|
 | `080` | Heuristic approaches |
 | `090` | LLM-based Agents |
 | `100` | Torch / Keras Neural Network examples |
@@ -84,7 +90,7 @@ All examples are implemented using:
 
 ---
 
-### Other Methods 
+### Last but not Least
 
 | Notebook | Method |  Original Paper |  Year |
 |-----------|---------|---------|---------|
