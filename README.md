@@ -96,6 +96,7 @@ All examples are implemented using:
 |-----------|---------|---------|---------|
 | `300` | Imitation Learning |  |  |
 | `500` | new environments |  |  |
+| `600` | Optimization with RL | (Bello,Bengio 2017) |  |
 
 ---
 
@@ -110,5 +111,6 @@ Some examples may be adapted or inspired by existing open-source material, with 
 
 - The focus is on clarity and understanding rather than benchmark performance.  
 - Each notebook is self-contained and can be executed independently.  
-- Intended as a practical complement to the theoretical content of the course.
+- Intended as a practical complement to the theoretical content of RL courses.
+- Are cited in class and free for you to use and build on top
 
