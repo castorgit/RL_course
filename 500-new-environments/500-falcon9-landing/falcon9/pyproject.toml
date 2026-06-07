@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0,<77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "falcon9"
+version = "0.1.0"
+description = "Gymnasium-compatible Falcon 9 Box2D platform landing environment."
+requires-python = ">=3.10"
+dependencies = [
+    "box2d-py>=2.3.5",
+    "gymnasium>=0.29",
+    "numpy>=1.21",
+    "pygame>=2.1",
+]
+
+[tool.setuptools]
+packages = ["falcon9"]
+
+[tool.setuptools.package-dir]
+falcon9 = "."
